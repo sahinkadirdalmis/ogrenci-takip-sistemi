@@ -3,13 +3,13 @@ MS Access Veritabanı kullanılarak oluşturulmuş öğrenci takip sistemi progr
 
 # Öğrenci Takip Sistemi (Student Tracking System)
 
-Bu proje, Tokat Gaziosmanpaşa Üniversitesi Bilgisayar Programcılığı eğitimi kapsamında ilişkisel veritabanı mimarisi ve otomasyon mantığını uygulamak amacıyla Microsoft Access ve Excel entegrasyonu ile geliştirilmiş masaüstü tabanlı bir öğrenci yönetim ve takip sistemidir.
+Bu proje, Tokat Gaziosmanpaşa Üniversitesi Bilgisayar Programcılığı eğitimi kapsamında ilişkisel veritabanı mimarisi ve otomasyon mantığını uygulamak amacıyla Microsoft Access ile geliştirilmiş masaüstü tabanlı bir öğrenci yönetim ve takip sistemidir.
 
 ## Sistem Özellikleri
 * **İlişkisel Veritabanı Mimarisi:** Tablolar arası birincil (Primary Key) ve yabancı (Foreign Key) anahtar ilişkileriyle optimize edilmiş, veri bütünlüğü (data integrity) kurallarına uygun tasarım.
 * **Katmanlı Kullanıcı Yetkilendirmesi:** İdari Yönetim, Öğretim Görevlileri ve Öğrenciler için ayrı seviyelerde yapılandırılmış güvenli giriş paneli (Authentication).
 * **Veri Yönetimi (CRUD):** Öğrenci kayıtları, dersler, notlar ve loglar üzerinde tam ekleme, okuma, güncelleme ve silme kabiliyetleri.
-* **Otomatik Raporlama:** Öğrenci performans ve durum verilerini anlık olarak işleyen ve Excel entegrasyonu ile raporlayabilen sorgu formları.
+* **Otomatik Raporlama:** Öğrenci performans ve durum verilerini anlık olarak işleyen ve raporlayabilen sorgu formları.
 
 ## Önemli Sistem Gereksinimleri (Teknik Mimari)
 Bu uygulamanın derleme mimarisi ve arkasındaki VBA (Visual Basic for Applications) kütüphaneleri, kararlılık ve laboratuvar standartları gereği **32-bit (x86)** altyapısına göre yapılandırılmıştır.
@@ -18,7 +18,6 @@ Bu uygulamanın derleme mimarisi ve arkasındaki VBA (Visual Basic for Applicati
 
 ## Kullanılan Teknolojiler
 * **Veritabanı ve Arayüz:** Microsoft Access (RDBMS)
-* **Veri Analizi ve Raporlama:** Microsoft Excel
 
 ## 📸 Sistem Ekran Görüntüleri ve Tasarım
 Uygulamanın arayüz tasarımı ve arkasındaki veritabanı şemasına ait önizlemeler aşağıda yer almaktadır:
