@@ -25,15 +25,21 @@ Uygulamanın arayüz tasarımı ve arkasındaki veritabanı şemasına ait öniz
 
 ### 1. Veritabanı İlişki Şeması (Database Schema)
 Tabloların normalizasyon kurallarına ve ilişkisel veritabanı mantığına göre birbiriyle olan bağları:
+
 ![Veritabanı Şeması](sema.png)
+
 
 ### 2. Kullanıcı Giriş Arayüzü (Login Interface)
 Sistem güvenliğini sağlayan, barlardan arındırılmış temiz giriş paneli:
+
 ![Giriş Ekranı](giris.png)
+
 
 ### 3. Veri Yönetim Paneli
 Aktif öğrenci ve ders kayıtlarının izlendiği ana tablo yapıları:
+
 ![Veri Yönetimi](tablo.png)
+
 
 ## Varsayılan Test Giriş Bilgileri
 Uygulamayı yerel bilgisayarınızda (32-bit Access ile) test etmek için aşağıdaki jenerik hesap bilgilerini kullanabilirsiniz:
